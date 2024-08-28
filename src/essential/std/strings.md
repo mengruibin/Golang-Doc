@@ -474,7 +474,7 @@ PASS
 
 <br>
 
- `Replace`的方便函数，等价于`stings.Replace(s,old,new,-1)`
+ `Replace`的方便函数，等价于`strings.Replace(s,old,new,-1)`
 
 ```go
 func ReplaceAll(s, old, new string) string
